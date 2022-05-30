@@ -2,9 +2,9 @@
 
 This project demonstrates dynamically generating SVG NFTs on Rinkeyby Testnet and the creation of a web client for minting of NFT.
 
-- Minting an NFT locally, creating a contract that mints NFTs.
--Minting NFTs with Static and Dynamic SVGs.
--Setting up of react app and wallet, connecting wallet to web app and creating a button to call contract and Mint NFT.
+Minting an NFT locally, creating a contract that mints NFTs.
+Minting NFTs with Static and Dynamic SVGs.
+Setting up of react app and wallet, connecting wallet to web app and creating a button to call contract and Mint NFT.
 
 
 
